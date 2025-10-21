@@ -40,10 +40,6 @@ type Action =
       type: ActionType["DISMISS_TOAST"]
       toastId?: ToasterToast["id"]
     }
-  | {
-      type: ActionType["<eos> - El componente de entrada no es compatible"]
-      toastId?: ToasterToast["id"]
-    }
 
 interface State {
   toasts: ToasterToast[]
