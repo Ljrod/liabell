@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import isologo from "@/images/isologo.svg"; // <-- 1. IMPORTA LA IMAGEN
+import isologo from "@/images/isologo.svg";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
