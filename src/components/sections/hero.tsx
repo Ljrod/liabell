@@ -6,7 +6,7 @@ export default function Hero() {
     <section id="hero" className="py-24 sm:py-32">
       <div className="container mx-auto px-4 text-center">
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tighter">
-          <span className="block">Laibell: Marketing y Sitios Web</span>
+          <span className="block">Marketing y Sitios Web</span>
           <span className="text-primary">que hacen crecer tu empresa.</span>
         </h1>
         <p className="mt-6 max-w-2xl mx-auto text-lg sm:text-xl text-foreground/80">
