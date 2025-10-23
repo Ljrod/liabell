@@ -41,8 +41,8 @@ export default function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center gap-2 text-xl font-bold font-headline text-foreground">
-            <Image src={isologo} alt="Isologo de Laibell" width={32} height={32} /> {/* <-- 2. USA LA VARIABLE IMPORTADA */}
-            <span>Laibell</span>
+            <Image src={isologo} alt="Isologo de Liabell" width={32} height={32} /> {/* <-- 2. USA LA VARIABLE IMPORTADA */}
+            <span>Liabell</span>
           </Link>
 
           <nav className="hidden lg:flex items-center gap-2">
